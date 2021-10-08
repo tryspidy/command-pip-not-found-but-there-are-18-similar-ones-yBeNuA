@@ -1,0 +1,8 @@
+# Updating package info
+sudo apt-get update
+
+# Downloading all upgrades
+sudo apt-get upgrade
+
+#Reinstalling pip
+sudo apt-get install python3-pip
